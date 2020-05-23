@@ -10,3 +10,8 @@ In this project I have scraped the data from the coursera website to gather the 
 5) Developing a predictive model about the completion percent.<br>
 
 I tried to compare this data with other educational websites like Edx and Udacity. However Edx and Udacity do not show the rating for each course or the number of people who have rated it (atleast not that I am aware of).
+
+**Additional Work to be added'**
+Categorize the courses into differnet groups (like business, data science, computer science etc) to see if some categories have higher completion rates than others. 
+
+Scrap enrollment information from Edx websites for comparison.
